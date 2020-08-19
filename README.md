@@ -16,4 +16,5 @@ psql_data = "host=localhost dbname=greenlight_production user=postgres password=
 ```
 
 pw is the password of your ldap user (binddn).
+
 PG-PASS is the password, that is set as DB_PASSWORD in the .env file of greenlight.
